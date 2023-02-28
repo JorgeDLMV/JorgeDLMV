@@ -10,5 +10,6 @@
 
 ### JS Frameworks:
 
+![React](https://shields.io/badge/React-black?logo=react&style=for-the-badge")
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=00D300)
 ![DiscordJS](https://img.shields.io/badge/-DiscordJS-000?&logo=Discord&logoColor=3178C6)
