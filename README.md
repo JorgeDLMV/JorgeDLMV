@@ -1,8 +1,8 @@
 ### Lenguajes de Programación
-![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=787CB5)
+![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
 
 ### Lenguajes de Marcado & Estilos
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
@@ -36,6 +36,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
 
 ### Sistemas Complejos
+![SaaS](https://img.shields.io/badge/-SaaS-000)
 ![ERP Systems](https://img.shields.io/badge/-ERP-000)
 ![CRM Systems](https://img.shields.io/badge/-CRM-000)
-![SaaS](https://img.shields.io/badge/-SaaS-000)
