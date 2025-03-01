@@ -15,8 +15,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031)
 
 ### Backend
-![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=00D300)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel&logoColor=FF2D20)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=00D300)
 ![DiscordJS](https://img.shields.io/badge/-DiscordJS-000?&logo=discord&logoColor=5865F2)
 
 ### Bases de Datos
