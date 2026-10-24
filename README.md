@@ -1,41 +1,72 @@
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=787CB5)
-![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
+# Hola, soy Jorge 👋
 
-### Lenguajes de Marcado & Estilos
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css&logoColor=06B6D4)
+Desarrollador **Full Stack & DevOps** en **Grupo Solisyon**, en Ciudad Real (España).
 
-### Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=FFFFFF)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031)
+Me gusta construir las cosas enteras: desde el modelo de datos hasta el pipeline que las despliega. Trabajo sobre todo con TypeScript y le dedico bastante tiempo a la arquitectura, la automatización y a integrar IA en el día a día del desarrollo.
 
-### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel&logoColor=FF2D20)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=00D300)
-![DiscordJS](https://img.shields.io/badge/-DiscordJS-000?&logo=discord&logoColor=5865F2)
+## En qué me centro
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
+- **Arquitectura**: sistemas escalables, mantenibles y multi-tenant.
+- **DevOps**: CI/CD, contenedores, calidad de código y automatización de despliegues y dependencias.
+- **Modernización**: migración incremental de sistemas legacy a stacks modernos sin interrumpir el servicio.
+- **IA aplicada al desarrollo**: agentes de código, servidores MCP, skills y hooks para Claude Code y Codex.
 
-### Seguridad & Autenticación
-![OAuth2](https://img.shields.io/badge/-OAuth2-000)
-![Token Systems](https://img.shields.io/badge/-Sistemas_de_Tokens-000)
+## Stack
 
-### Desarrollo de APIs
-![REST APIs](https://img.shields.io/badge/-REST_API-000?&logo=swagger&logoColor=85EA2D)
-![API Design](https://img.shields.io/badge/-Diseño_de_APIs-000?&logo=swagger&logoColor=85EA2D)
-![External APIs](https://img.shields.io/badge/-Integración_APIs_Externas-000?&logo=postman&logoColor=FF6C37)
+**Lenguajes**
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=mariadb&logoColor=C0765A)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZmlsbD0iIzUzOTFGRSIgZD0iTTIzLjE4MSAyLjk3NGMuNTY4IDAgLjkyMy40NjMuNzkyIDEuMDM1bC0zLjY1OSAxNS45ODJjLS4xMy41NzItLjY5NyAxLjAzNS0xLjI2NSAxLjAzNUguODE5Yy0uNTY4IDAtLjkyMy0uNDYzLS43OTItMS4wMzVMMy42ODYgNC4wMDljLjEzLS41NzIuNjk3LTEuMDM1IDEuMjY1LTEuMDM1em0tOC4zNzUgOS4zNDZjLjI1MS0uMzk0LjIyNy0uOTA1LS4wOS0xLjI0M0w5LjEyMiA1LjEyNWMtLjM4LS40MDQtMS4wMzctLjQwNy0xLjQ2Ni0uMDAzLS40MjkuNDAyLS40NjggMS4wNTYtLjA4OCAxLjQ2bDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzc0Yy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MWMuMjgtLjE5Ni40MzgtLjM2NS41MTQtLjUyem0tMi43OTYgNC4zOTlhLjkyOC45MjggMCAwMC0uOTM0LjkyM2MwIC41MS40MTguOTIzLjkzNC45MjNoNC40MzNhLjkyOC45MjggMCAwMC45MzQtLjkyMy45MjguOTI4IDAgMDAtLjkzNC0uOTIzeiIvPjwvc3ZnPg==)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=gnubash&logoColor=4EAA25)
 
-### Workflow & Herramientas
-![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=swagger&logoColor=85EA2D)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs&logoColor=5FA04E)
+![Fastify](https://img.shields.io/badge/-Fastify-000?logo=fastify&logoColor=FFFFFF)
+![oRPC](https://img.shields.io/badge/-oRPC-000?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTIxIDI1NEMxMDAgMjUzIDc4IDI0NiA2MCAyMzRDNDggMjI2IDQ3IDIyMSA1OSAyMTZDNzggMjA5IDg3IDIwMCA5NSAxODFDMTAwIDE2OSAxMDMgMTY4IDExMyAxNzFDMTUwIDE4MSAxODEgMTUyIDE3MyAxMTVDMTcxIDEwOSAxNzEgMTA1IDE3MyAxMDNDMTc1IDEwMCAxNzYgOTkgMTg1IDk1QzIwMCA4OCAyMTAgNzkgMjE3IDY3QzIyMyA1NyAyMjUgNTUgMjMwIDU3QzIzOCA2MSAyNDkgODUgMjUyIDEwNkMyNjYgMTg2IDIwMyAyNTggMTIxIDI1NFoiLz48cGF0aCBmaWxsPSIjZmY2Y2E1IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00MCAyMDdDMjcgMjA1IDE3IDE5NSAxMSAxNzhDNCAxNjEgMSAxNDcgMSAxMzFDMSA5MiAxMyA2MyA0MCAzN0M0NiAzMSA0OCAyOSA1NyAyM0M2NyAxNiA3MCAxNCA3OCAxMUMxMTUgLTQgMTUxIC0yIDE4OSAxNkMyMjMgMzIgMjE5IDY1IDE4MSA4NEMxNjYgOTIgMTU5IDkyIDE0NSA4OEMxMjAgNzkgMTAwIDg2IDg4IDEwOEM4MiAxMTkgODEgMTI3IDg1IDE0MkM5MCAxNjAgOTAgMTY4IDgyIDE4M0M3NCAxOTkgNTYgMjA5IDQwIDIwN1pNMTE0IDM5QTcgNyAwIDAgMSAxMjEgMjdMMTQ2IDQxQTcgNyAwIDAgMSAxNDAgNTNaTTcxIDU5QTcgNyAwIDAgMSA4MSA2OEw2MSA4OUE3IDcgMCAwIDEgNTIgODFaTTMyIDEyOUE3IDcgMCAwIDEgNDAgMTE5TDU3IDEzM0E3IDcgMCAwIDEgNDkgMTQzWiIvPjwvc3ZnPg==)
+![Zod](https://img.shields.io/badge/-Zod-000?logo=zod&logoColor=3E67B1)
+![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel&logoColor=FF2D20)
 
-### Sistemas Complejos
-![SaaS](https://img.shields.io/badge/-SaaS-000)
-![ERP Systems](https://img.shields.io/badge/-ERP-000)
-![CRM Systems](https://img.shields.io/badge/-CRM-000)
+**Frontend**
+![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB)
+![TanStack](https://img.shields.io/badge/-TanStack-000?logo=tanstack&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/-Vite-000?logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?logo=tailwindcss&logoColor=06B6D4)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=FFFFFF)
+
+**Datos**
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?logo=mariadb&logoColor=C0765A)
+![Drizzle](https://img.shields.io/badge/-Drizzle-000?logo=drizzle&logoColor=C5F74F)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=4169E1)
+
+**DevOps & tooling**
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?logo=githubactions&logoColor=2088FF)
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?logo=sonarqubeserver&logoColor=4E9BCD)
+![Renovate](https://img.shields.io/badge/-Renovate-000?logo=renovate&logoColor=1A1F6C)
+![pnpm](https://img.shields.io/badge/-pnpm-000?logo=pnpm&logoColor=F69220)
+![Turborepo](https://img.shields.io/badge/-Turborepo-000?logo=turborepo&logoColor=EF4444)
+
+**Testing**
+![Vitest](https://img.shields.io/badge/-Vitest-000?logo=vitest&logoColor=6E9F18)
+![Playwright](https://img.shields.io/badge/-Playwright-000?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUGxheXdyaWdodDwvdGl0bGU%2BPHBhdGggZmlsbD0iIzJFQUQzMyIgZD0iTTIzLjk5NiA3LjQ2MmMtLjA1Ni44MzctLjI1NyAyLjEzNS0uNzE2IDMuODUtLjk5NSAzLjcxNS00LjI3IDEwLjg3NC0xMC40MiA5LjIyNy02LjE1LTEuNjUtNS40MDctOS40ODctNC40MTItMTMuMjAxLjQ2LTEuNzE2LjkzNC0yLjk0IDEuMzA1LTMuNjk0LjQyLS44NTMuODQ2LS4yODkgMS44MTUuNTIzLjY4NC41NzMgMi40MSAxLjc5MSA1LjAxMSAyLjQ4OCAyLjYwMS42OTcgNC43MDYuNTA2IDUuNTgzLjM1MiAxLjI0NS0uMjE5IDEuODk3LS40OTQgMS44MzQuNDU1Wm0tOS44MDcgMy44NjNzLS4xMjctMS44MTktMS43NzMtMi4yODZjLTEuNjQ0LS40NjctMi42MTMgMS4wNC0yLjYxMyAxLjA0Wm00LjA1OCA0LjUzOS03Ljc2OS0yLjE3MnMuNDQ2IDIuMzA2IDMuMzM4IDMuMTUzYzIuODYyLjgzNiA0LjQzLS45OCA0LjQzLS45ODFabTIuNzAxLTIuNTFzLS4xMy0xLjgxOC0xLjc3My0yLjI4NmMtMS42NDQtLjQ2OS0yLjYxMiAxLjAzOC0yLjYxMiAxLjAzOFpNOC41NyAxOC4yM2MtNC43NDkgMS4yNzktNy4yNjEtNC4yMjQtOC4wMjEtNy4wOEMuMTk3IDkuODMxLjA0NCA4LjgzMi4wMDMgOC4xODhjLS4wNDctLjczLjQ1NS0uNTIgMS40MTUtLjM1NC42NzcuMTE4IDIuMy4yNjEgNC4zMDgtLjI4YTExLjI4IDExLjI4IDAgMCAwIDIuNDEtLjk1NmMtLjA1OC4xOTctLjExNC40LS4xNy42MS0uNDMzIDEuNjE4LS44MjcgNC4wNTUtLjYzMiA2LjQyNi0xLjk3Ni43MzItMi4yNjcgMi40MjMtMi4yNjcgMi40MjNsMi41MjQtLjcxNWMuMjI3IDEuMDAyLjYgMS45ODcgMS4xNSAyLjgzOGE1LjkxNCA1LjkxNCAwIDAgMS0uMTcxLjA0OVptLTQuMTg4LTYuMjk4YzEuMjY1LS4zMzMgMS4zNjMtMS42MzEgMS4zNjMtMS42MzFsLTMuMzc0Ljg4OHMuNzQ1IDEuMDc2IDIuMDEuNzQzWiIvPjwvc3ZnPg==)
+
+**IA aplicada**
+![Claude Code](https://img.shields.io/badge/-Claude_Code-000?logo=claude&logoColor=D97757)
+![Codex](https://img.shields.io/badge/-Codex-000?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg==)
+![MCP](https://img.shields.io/badge/-MCP-000?logo=modelcontextprotocol&logoColor=FFFFFF)
+
+## Trayectoria
+
+- **Desde 2024:** Grupo Solisyon. Full Stack y, desde 2026, también DevOps.
+- **2022-2024:** CFGS Desarrollo de Aplicaciones Web, I.E.S. Maestre de Calatrava.
+
+**Reconocimientos**
+
+- 🥇 **1º en CLMskills 2023**: Campeonato Autonómico de FP de Castilla-La Mancha, Desarrollo Web.
+- 🏅 **5º en SpainSkills 2024**: Campeonato Nacional de FP, Desarrollo Web.
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/jorge-de-la-morena-vaquero)
